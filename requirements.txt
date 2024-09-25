@@ -1,0 +1,9 @@
+django
+psycopg2-binary
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+dj-database-url
+celery
+django-celery-beat
+django-celery-results
